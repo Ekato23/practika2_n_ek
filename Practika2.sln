@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+# Visual Studio Version 18
+VisualStudioVersion = 18.11.12328.437 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practika2", "Practika2\Practika2.csproj", "{EE0C3561-D0E3-4C2A-964F-1191852EDC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{2B8AE956-0988-4BEC-8332-17B036739733}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{EE0C3561-D0E3-4C2A-964F-1191852EDC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE0C3561-D0E3-4C2A-964F-1191852EDC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE0C3561-D0E3-4C2A-964F-1191852EDC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8AE956-0988-4BEC-8332-17B036739733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8AE956-0988-4BEC-8332-17B036739733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8AE956-0988-4BEC-8332-17B036739733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8AE956-0988-4BEC-8332-17B036739733}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {931828D2-CD2B-4836-A151-C649C131C0BB}
 	EndGlobalSection
 EndGlobal
